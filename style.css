@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#projects .project {
+  width: 30%;
+  margin-bottom: 50px;
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+#projects {
+  color: blue;
+}
